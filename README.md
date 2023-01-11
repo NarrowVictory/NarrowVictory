@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rifki Kardawi</h1>
-<h3 align="center">A fresh graduate from Lhokseumawe State Polytechnic in the field of Informatics engineering</h3>
+<h3 align="center">Have a nice day :')</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narrowvictory&label=Profile%20views&color=0e75b6&style=flat" alt="narrowvictory" /> </p>
 
@@ -10,7 +10,4 @@
 
 	<h3 align="left">My Stats:</h3>
 	<p align="left"></p>
-	<p>&nbsp;
-		<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=narrowvictory&show_icons=true&locale=en" alt="narrowvictory" />
-		<img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narrowvictory&" alt="narrowvictory" />
-	</p>
+	<p>&nbsp;<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=narrowvictory&show_icons=true&locale=en" alt="narrowvictory"/><img width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narrowvictory&" alt="narrowvictory" /></p>
